@@ -1,0 +1,18 @@
+{
+  "title": "Renegociação especial para sua empresa",
+  "description": "Fuja da falência renegociando a dívida da sua empresa.",
+  "image": "http://localhost:3007/static/banners/renegotiationBanner.png",
+  "button": {
+    "text": "Abra sua conta",
+    "action": "/onboarding"
+  },
+  "steps": [
+    {
+      "type": "PLAIN_TEXT",
+      "title": "TBD",
+      "description": "TBD.",
+      "color": "#FFFFFF",
+      "fontColor": "black"
+    }
+  ]
+}

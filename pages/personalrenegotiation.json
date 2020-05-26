@@ -1,0 +1,18 @@
+{
+  "title": "Renegociação especial para você",
+  "description": "Quebre sua dívida em parcelas que cabem no seu bolso e não deixe que o seu nome fique sujo.",
+  "image": "http://localhost:3007/static/banners/renegotiationBanner.png",
+  "button": {
+    "text": "Abra sua conta",
+    "action": "/onboarding"
+  },
+  "steps": [
+    {
+      "type": "PLAIN_TEXT",
+      "title": "Seu padrão de vida não está mais comportando sua dívida?",
+      "description": "Renegocie a sua dívida conosco e diminua o valor de suas parcelas para que você possa continuar focando o seu dinheiro no que realmente importa. \nAbra já sua conta e entre em contato com um de nossos analistas para formular uma proposta.",
+      "color": "#FFFFFF",
+      "fontColor": "black"
+    }
+  ]
+}

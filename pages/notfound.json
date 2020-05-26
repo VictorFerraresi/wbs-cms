@@ -1,0 +1,18 @@
+{
+  "title": "Ooops!",
+  "description": "Acho que você está perdido, cowboy. Como veio parar aqui mesmo?",
+  "image": "http://localhost:3007/static/banners/404Banner.png",
+  "button": {
+    "text": "Voltar à civilização",
+    "action": "/"
+  },
+  "steps": [
+    {
+      "type": "PLAIN_TEXT",
+      "title": "404",
+      "description": "Esta página não existe. Pedimos desculpas se te redirecionamos pra cá!",
+      "color": "#FFFFFF",
+      "fontColor": "black"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "O melhor investimento para você",
+  "description": "Conte com a assessoria de economistas profissionais para alavancar seus ganhos.",
+  "image": "http://localhost:3007/static/banners/investingBanner.png",
+  "button": {
+    "text": "Abra sua conta",
+    "action": "/onboarding"
+  },
+  "steps": [
+    {
+      "type": "PLAIN_TEXT",
+      "title": "Começe a investir com o valor de um donut",
+      "description": "Você sabia que pode começar investir com menos de $100? Abra sua conta conosco e explore as nossas opções de investimento, que vão desde o perfil mais conservador até o mais agressivo! Conte com a mentoria de nossos assessores de investimento para escolher a melhor opção que se encaixa em seu momento de vida.",
+      "color": "#FFFFFF",
+      "fontColor": "black"
+    }
+  ]
+}

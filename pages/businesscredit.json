@@ -1,0 +1,18 @@
+{
+  "title": "Crédito acessível para sua empresa",
+  "description": "A gente acredita no potencial do seu negócio.",
+  "image": "http://localhost:3007/static/banners/businessCreditBanner.png",
+  "button": {
+    "text": "Abra sua conta",
+    "action": "/onboarding"
+  },
+  "steps": [
+    {
+      "type": "PLAIN_TEXT",
+      "title": "Solicite uma avaliação da sua operação",
+      "description": "Crédito rápido e com ótimas condições de financiamento. Realizamos o financiamento de maquinários, propriedades e outros tipos de bens materiais para sua empresa. Amplie a sua operação e atinja outros patamares em seu negócio.\nAbra sua conta, faça-nos uma visita e apresente o seu sonho!",
+      "color": "#FFFFFF",
+      "fontColor": "black"
+    }
+  ]
+}

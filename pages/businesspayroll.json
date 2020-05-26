@@ -1,0 +1,18 @@
+{
+  "title": "Controle de folha de pagamento para sua empresa",
+  "description": "Para você focar no que realmente importa.",
+  "image": "http://localhost:3007/static/banners/payrollBanner.png",
+  "button": {
+    "text": "Abra sua conta",
+    "action": "/onboarding"
+  },
+  "steps": [
+    {
+      "type": "PLAIN_TEXT",
+      "title": "Descubra como podemos operar o seu fluxo de caixa",
+      "description": "Controlamos todo o quadro de funcionários da sua empresa, os pagamentos, descontos e processos financeiros para que você continue focando no que realmente importa: a expansão do seu negócio.\nAbra sua conta e deixa a gente te mostrar o que pode fazer por você.",
+      "color": "#FFFFFF",
+      "fontColor": "black"
+    }
+  ]
+}

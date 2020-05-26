@@ -1,0 +1,18 @@
+{
+  "title": "Crédito acessível para você",
+  "description": "A ajuda que você precisa para concretizar um sonho.",
+  "image": "http://localhost:3007/static/banners/creditBanner.png",
+  "button": {
+    "text": "Abra sua conta",
+    "action": "/onboarding"
+  },
+  "steps": [
+    {
+      "type": "PLAIN_TEXT",
+      "title": "Receba seu dinheiro em poucas horas",
+      "description": "Deixou de comprar aquela propriedade ou aquele veículo com um super preço por falta de capital disponível? A gente oferece pra você o crédito mais barato do mercado, com ótimas condições de pagamento.\n Você pode compor renda com outra pessoa e utilizar até o seu veículo como garantia para conseguir um crédito maior, sabia? Abra sua conta e confira o seu limite pré-aprovado agora mesmo!",
+      "color": "#FFFFFF",
+      "fontColor": "black"
+    }
+  ]
+}

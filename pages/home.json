@@ -1,0 +1,93 @@
+{
+  "title": "Bem-Vinda, Los Santos!",
+  "description": "A excelência do maior e melhor banco de investimentos europeu, agora disponível em Los Santos.",
+  "image": "http://localhost:3007/static/banners/homeBanner.png",
+  "button": {
+    "text": "Abra sua conta",
+    "action": "/onboarding"
+  },
+  "cards": [
+    {
+      "type": "INFO",
+      "svg": "http://localhost:3007/static/cards/invista.svg",
+      "title": "Invista seu dinheiro",
+      "description": "Conte com nossos corretores para lhe indicar a melhor opção de investimento na atualidade."
+    },
+    {
+      "type": "INFO",
+      "svg": "http://localhost:3007/static/cards/taxa.svg",
+      "title": "Taxas?",
+      "description": "Nós não temos esta palavra em nosso dicionário. Nossos serviços são gratuitos."
+    },
+    {
+      "type": "INFO",
+      "svg": "http://localhost:3007/static/cards/seguranca.svg",
+      "title": "Segurança",
+      "description": "Trabalhamos dia e noite para manter a garantia de seus investimentos."
+    }
+  ],
+  "accordion": {
+    "title": "Soluções",
+    "items": [
+      {
+        "title": "Para você",
+        "subItems": [
+          {
+            "title": "Créditos e financiamentos",
+            "link": "/para-voce/credito"
+          },
+          {
+            "title": "Investimentos",
+            "link": "/para-voce/investimentos"
+          },
+          {
+            "title": "Renegociação de dívida",
+            "link": "/para-voce/renegociacao"
+          }
+        ]
+      },
+      {
+        "title": "Para sua empresa",
+        "subItems": [
+          {
+            "title": "Créditos e financiamentos",
+            "link": "/para-sua-empresa/credito"
+          },
+          {
+            "title": "Investimentos",
+            "link": "/para-sua-empresa/investimentos"
+          },
+          {
+            "title": "Renegociação de dívida",
+            "link": "/para-sua-empresa/renegociacao"
+          },
+          {
+            "title": "Folha de pagamento",
+            "link": "/para-sua-empresa/folha-de-pagamento"
+          }
+        ]
+      },
+      {
+        "title": "Veja também",
+        "subItems": [
+          {
+            "title": "Quem somos nós",
+            "link": "/quem-somos-nos"
+          },
+          {
+            "title": "Carreiras",
+            "link": "/carreiras"
+          },
+          {
+            "title": "Mídia",
+            "link": "/midia"
+          },
+          {
+            "title": "Contato",
+            "link": "/contato"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Dinamicidade",
+  "description": "Vivemos em um mundo cada vez mais conectado, onde as notícias percorrem o globo com cada vez mais velocidade. Como estas notícias podem afetar os seus investimentos?",
+  "image": "http://localhost:3007/static/banners/midiaBanner.png",
+  "steps": [
+    {
+      "type": "PLAIN_TEXT",
+      "title": "Em breve...",
+      "description": "...você poderá acompanhar as últimas notícias políticas e econômicas de Los Santos e do mundo em tempo real para que possa tomar a melhor decisão em seus investimentos.",
+      "color": "#FFFFFF",
+      "fontColor": "black"
+    }
+  ]
+}

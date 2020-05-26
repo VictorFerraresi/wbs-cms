@@ -1,0 +1,18 @@
+{
+  "title": "O melhor investimento para sua empresa",
+  "description": "Proteja o seu capital e trabalhe tranquilo.",
+  "image": "http://localhost:3007/static/banners/investingBanner.png",
+  "button": {
+    "text": "Abra sua conta",
+    "action": "/onboarding"
+  },
+  "steps": [
+    {
+      "type": "PLAIN_TEXT",
+      "title": "TBD",
+      "description": "TBD.",
+      "color": "#FFFFFF",
+      "fontColor": "black"
+    }
+  ]
+}
