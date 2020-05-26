@@ -1,7 +1,7 @@
 {
   "title": "Ooops!",
   "description": "Acho que você está perdido, cowboy. Como veio parar aqui mesmo?",
-  "image": "http://localhost:3007/static/banners/404Banner.png",
+  "image": "https://wbs.vitorvasconcellos.com.br:3007/static/banners/404Banner.png",
   "button": {
     "text": "Voltar à civilização",
     "action": "/"

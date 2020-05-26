@@ -1,7 +1,7 @@
 {
   "title": "Bem-Vinda, Los Santos!",
   "description": "A excelência do maior e melhor banco de investimentos europeu, agora disponível em Los Santos.",
-  "image": "http://localhost:3007/static/banners/homeBanner.png",
+  "image": "https://wbs.vitorvasconcellos.com.br:3007/static/banners/homeBanner.png",
   "button": {
     "text": "Abra sua conta",
     "action": "/onboarding"
@@ -9,19 +9,19 @@
   "cards": [
     {
       "type": "INFO",
-      "svg": "http://localhost:3007/static/cards/invista.svg",
+      "svg": "https://wbs.vitorvasconcellos.com.br:3007/static/cards/invista.svg",
       "title": "Invista seu dinheiro",
       "description": "Conte com nossos corretores para lhe indicar a melhor opção de investimento na atualidade."
     },
     {
       "type": "INFO",
-      "svg": "http://localhost:3007/static/cards/taxa.svg",
+      "svg": "https://wbs.vitorvasconcellos.com.br:3007/static/cards/taxa.svg",
       "title": "Taxas?",
       "description": "Nós não temos esta palavra em nosso dicionário. Nossos serviços são gratuitos."
     },
     {
       "type": "INFO",
-      "svg": "http://localhost:3007/static/cards/seguranca.svg",
+      "svg": "https://wbs.vitorvasconcellos.com.br:3007/static/cards/seguranca.svg",
       "title": "Segurança",
       "description": "Trabalhamos dia e noite para manter a garantia de seus investimentos."
     }

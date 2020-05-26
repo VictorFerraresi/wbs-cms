@@ -1,7 +1,7 @@
 {
   "title": "Renegociação especial para você",
   "description": "Quebre sua dívida em parcelas que cabem no seu bolso e não deixe que o seu nome fique sujo.",
-  "image": "http://localhost:3007/static/banners/renegotiationBanner.png",
+  "image": "https://wbs.vitorvasconcellos.com.br:3007/static/banners/renegotiationBanner.png",
   "button": {
     "text": "Abra sua conta",
     "action": "/onboarding"

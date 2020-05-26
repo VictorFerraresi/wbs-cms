@@ -1,7 +1,7 @@
 {
   "title": "A disrupção digital",
   "description": "Você não para, e a gente também não. Uma equipe de profissionais extremamente qualificados sempre prontos para te auxiliar em qualquer ocasião.",
-  "image": "http://localhost:3007/static/banners/aboutBanner.png",
+  "image": "https://wbs.vitorvasconcellos.com.br:3007/static/banners/aboutBanner.png",
   "steps": [
     {
       "type": "PLAIN_TEXT",
@@ -16,28 +16,28 @@
       "cards": [
         {
           "type": "CHART",
-          "image": "http://localhost:3007/static/cards/georgetheiss.png",
+          "image": "https://wbs.vitorvasconcellos.com.br:3007/static/cards/georgetheiss.png",
           "name": "George Theiss",
           "rank": "Chief Executive Officer",
           "description": "Banqueiro suíço e ex-operador de ações. Com um patrimônio líquido estimado em 65 bilhões de dólares, Theiss detém atualmente o fundo de equities mais performático da última década."
         },
         {
           "type": "CHART",
-          "image": "http://localhost:3007/static/cards/richardowens.png",
+          "image": "https://wbs.vitorvasconcellos.com.br:3007/static/cards/richardowens.png",
           "name": "Ricard Owens",
           "rank": "Chief Financial Officer",
           "description": "Norte-americano e empreendedor, Owens se formou em Economia pela Universidade de Harvard e se tornou um dos Forbes 30 Under 30 após vender sua start-up, Cash4U, por um valor de aproximadamente 46 milhões de dólares."
         },
         {
           "type": "CHART",
-          "image": "http://localhost:3007/static/cards/henrymhaywonder.png",
+          "image": "https://wbs.vitorvasconcellos.com.br:3007/static/cards/henrymhaywonder.png",
           "name": "Henry Mhaywonder",
           "rank": "Chief Operating Officer",
           "description": "Nascido e formado em Los Santos, Mhaywonder já encabeçou a operação de grandes empresas como: Burguer Shot (2007-2012), Juank Air (2012-2016) e Roboi's Food Mart, de onde vêm para a inovação bancária."
         },
         {
           "type": "CHART",
-          "image": "http://localhost:3007/static/cards/andyfirestone.png",
+          "image": "https://wbs.vitorvasconcellos.com.br:3007/static/cards/andyfirestone.png",
           "name": "Andy Firestone",
           "rank": "Chief Information Officer",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis efficitur sed arcu vitae dapibus. Ut id pharetra eros. In ullamcorper quam ut mauris ornare commodo. Maecenas aliquam."

@@ -1,7 +1,7 @@
 {
   "title": "Crédito acessível para você",
   "description": "A ajuda que você precisa para concretizar um sonho.",
-  "image": "http://localhost:3007/static/banners/creditBanner.png",
+  "image": "https://wbs.vitorvasconcellos.com.br:3007/static/banners/creditBanner.png",
   "button": {
     "text": "Abra sua conta",
     "action": "/onboarding"

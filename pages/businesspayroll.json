@@ -1,7 +1,7 @@
 {
   "title": "Controle de folha de pagamento para sua empresa",
   "description": "Para você focar no que realmente importa.",
-  "image": "http://localhost:3007/static/banners/payrollBanner.png",
+  "image": "https://wbs.vitorvasconcellos.com.br:3007/static/banners/payrollBanner.png",
   "button": {
     "text": "Abra sua conta",
     "action": "/onboarding"

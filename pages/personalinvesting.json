@@ -1,7 +1,7 @@
 {
   "title": "O melhor investimento para você",
   "description": "Conte com a assessoria de economistas profissionais para alavancar seus ganhos.",
-  "image": "http://localhost:3007/static/banners/investingBanner.png",
+  "image": "https://wbs.vitorvasconcellos.com.br:3007/static/banners/investingBanner.png",
   "button": {
     "text": "Abra sua conta",
     "action": "/onboarding"

@@ -1,7 +1,7 @@
 {
   "title": "Crédito acessível para sua empresa",
   "description": "A gente acredita no potencial do seu negócio.",
-  "image": "http://localhost:3007/static/banners/businessCreditBanner.png",
+  "image": "https://wbs.vitorvasconcellos.com.br:3007/static/banners/businessCreditBanner.png",
   "button": {
     "text": "Abra sua conta",
     "action": "/onboarding"

@@ -1,7 +1,7 @@
 {
   "title": "Seja parte da mudança",
   "description": "Estamos constantemente admitindo novas pessoas incríveis de diversas áreas para se tornarem parte da mudança. Você acha que têm o necessário para fazer parte do nosso time?",
-  "image": "http://localhost:3007/static/banners/careersBanner.png",
+  "image": "https://wbs.vitorvasconcellos.com.br:3007/static/banners/careersBanner.png",
   "steps": [
     {
       "type": "CARD_LIST",

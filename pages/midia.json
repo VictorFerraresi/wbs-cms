@@ -1,7 +1,7 @@
 {
   "title": "Dinamicidade",
   "description": "Vivemos em um mundo cada vez mais conectado, onde as notícias percorrem o globo com cada vez mais velocidade. Como estas notícias podem afetar os seus investimentos?",
-  "image": "http://localhost:3007/static/banners/midiaBanner.png",
+  "image": "https://wbs.vitorvasconcellos.com.br:3007/static/banners/midiaBanner.png",
   "steps": [
     {
       "type": "PLAIN_TEXT",
