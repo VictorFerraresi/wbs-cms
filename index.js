@@ -22,6 +22,6 @@ app.get('/pages/:page', function (req, res) {
 });
 
 
-app.listen(port, 'wbs.advanced-roleplay.com.br', function () {
+app.listen(port, function () {
   console.log(`CMS listening on port ${port}!`);
 });
