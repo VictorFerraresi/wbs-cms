@@ -4,7 +4,8 @@
   "description": "CMS for WBS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "cross-env CMS_APP_STAGE=dev node index.js",
+    "prod": "cross-env CMS_APP_STAGE=prod node index.js"
   },
   "author": "Victor Ferraresi",
   "license": "ISC",
